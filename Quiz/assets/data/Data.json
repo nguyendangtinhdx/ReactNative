@@ -1,0 +1,114 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "question": "Trong 1 năm, tháng thì có ngày 31, tháng thì có ngày 30, vậy có bao nhiêu tháng có ngày 28?",
+      "A": "1",
+      "B": "2",
+      "C": "7",
+      "D": "12",
+      "answer": "D",
+      "answerText": "12",
+      "explain": "Trong 12 tháng, tháng nào cũng có ngày 28."
+    },
+    {
+      "id": 2,
+      "question": "Trung bình 1 người có ít nhất bao nhiêu ngày sinh nhật?",
+      "A": "1",
+      "B": "Ít nhất 1",
+      "C": "2",
+      "D": "Nhiều hơn 2",
+      "answer": "A",
+      "answerText": "1",
+      "explain": "Mỗi người chỉ có duy nhất 1 ngày sinh nhật thôi."
+    },
+    {
+      "id": 3,
+      "question": "Điền vào chỗ trống : 1, 2, 3, 5, 8, (…)",
+      "A": "11",
+      "B": "13",
+      "C": "6",
+      "D": "15",
+      "answer": "B",
+      "answerText": "13",
+      "explain": "Số tiếp theo bằng hai số đi trước công lại: 5+8=13."
+    },
+    {
+      "id": 4,
+      "question": "Có tất cả 4 trái xoài trên bàn, bạn lấy đi 3, hiện giờ bạn có bao nhiêu quả xoài?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "C",
+      "answerText": "3",
+      "explain": "Bạn lấy đi 3, tức là bạn chỉ có 3 quả thôi, quả kia vẫn còn nằm trên bàn."
+    },
+    {
+      "id": 5,
+      "question": "Bạn tham dự vào 1 cuộc chạy thi, bạn vượt người thứ 2, vậy vị trí của bạn là thứ mấy?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "answer": "B",
+      "answerText": "2",
+      "explain": "Đứng thứ 2, nếu bạn vượt người thứ 2 thì bạn vẫn đứng thứ 2 thôi."
+    },
+    {
+      "id": 6,
+      "question": "Anh trai của cháu gái gọi bạn bằng cô là gì của bạn?",
+      "A": "Anh",
+      "B": "Em",
+      "C": "Cháu",
+      "D": "Cô",
+      "answer": "C",
+      "answerText": "Cháu",
+      "explain": "Cháu gái gọi bằng cô thì cháu trai cũng gọi bằng cô => Cháu"
+    },
+    {
+      "id": 7,
+      "question": "Làm thế nào để qua được câu này?",
+      "A": "Bỏ cuộc",
+      "B": "Cho tôi qua đi mà",
+      "C": "Không thể qua",
+      "D": "Câu này khó quá",
+      "answer": "A",
+      "answerText": "Bỏ cuộc",
+      "explain": "Cách duy nhất là bỏ cuộc."
+    },
+    {
+      "id": 8,
+      "question": "Con Hổ bị xích vào gốc cây, sợi xích dài 30m. Có 1 bụi cỏ cách đấy 31m, làm sao con Hổ ăn được bụi cỏ?",
+      "A": "Cắn đứt xích",
+      "B": "Húc đổ cây",
+      "C": "Gọi đồng bọn đến",
+      "D": "Không khả thi",
+      "answer": "D",
+      "answerText": "Không khả thi",
+      "explain": "Vì hổ có ăn cỏ đâu."
+    },
+    {
+      "id": 9,
+      "question": "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rằm. Hỏi chết mấy con?",
+      "A": "1",
+      "B": "2",
+      "C": "14",
+      "D": "15",
+      "answer": "D",
+      "answerText": "15",
+      "explain": "Vì rằm là 15."
+    },
+    {
+      "id": 10,
+      "question": "8 chia 4 = ?",
+      "A": "1/4",
+      "B": "1/2",
+      "C": "3/4",
+      "D": "4/3",
+      "answer": "D",
+      "answerText": "4/3",
+      "explain": "8:4 = Tám : Tư = Tứ : Tam = 4/3 = 1,333333."
+    }
+  ]
+}

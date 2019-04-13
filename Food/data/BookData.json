@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Hải sản",
+      "description": "Ốc hương tự nhiên Nha Trang",
+      "detail": "Ốc hương là một trong những loại ốc biển được ưa chuộng nhất hiện nay bởi mùi hương thơm tự nhiên vô cùng hấp dẫn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lactarius_indigo_48568.jpg",
+      "image2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cornish_cream_tea_2.jpg",
+      "image3": "https://upload.wikimedia.org/wikipedia/commons/7/74/Yeolmukimchi_3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gỏi trọn",
+      "description": "Gỏi bò bắp chuối",
+      "detail": "Thịt bò rửa sạch cắt lát mỏng ướp xíu muối, nước mắm, bột ngọt, 1 miếng cốt chanh. Cà rốt bào sợi ướp chanh đường, bắp chuối rửa sạch vẩy ráo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lactarius_indigo_48568.jpg",
+      "image2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cornish_cream_tea_2.jpg",
+      "image3": "https://upload.wikimedia.org/wikipedia/commons/7/74/Yeolmukimchi_3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lẩu",
+      "description": "Lẩu Thái chua cay",
+      "detail": "Mùi thơm, vị chua cay bốc lên từ nồi nước dùng và vị ngọt tự nhiên từ các loại rau, hải sản xua tan cái lạnh đầu đông",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lactarius_indigo_48568.jpg",
+      "image2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cornish_cream_tea_2.jpg",
+      "image3": "https://upload.wikimedia.org/wikipedia/commons/7/74/Yeolmukimchi_3.jpg"
+    }
+  ]
+}
